@@ -24,7 +24,7 @@ Além de outros recursos.
 ## 💻 Preview:
 - Veja como ficou o projeto acessando: [o link do Github Pages]()
   
-![Imagem do Projeto](assets/img/tela.png)
+![Imagem do Projeto](assets/images/tela.png)
 
 ## 🤔 O que aprendi com esse projeto:
 - Responsividade.
