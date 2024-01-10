@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;700&display=swap");
 
 :root {
-  --primary-color: #020228;
+  --primary-color: #030328;
   --secondary-color: #ff00e5;
   --tertiary-color: #b535f6;
   --btn-bg-color-gradient: linear-gradient(
@@ -120,6 +120,7 @@ section {
 .menu__item--button {
   padding: 8px 26px;
   transition: background 1s, color 1s;
+  
 }
 
 .menu__item--button:hover {
